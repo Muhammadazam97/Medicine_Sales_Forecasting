@@ -68,9 +68,9 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 
 ## Contact
 For any inquiries or collaborations, contact:
-- **Nishat Jillani**
-- GitHub: [NishatJillani](https://github.com/NishatJillani)
-- LinkedIn: [linkedin.com/nishatjillani](https://linkedin.com/nishatjillani)
+- **Muhammad Azam Ramzan**
+- GitHub: [Muhammad Azam Ramzan](https://github.com/Muhammadazam97)
+- LinkedIn: [Muhammad Azam Ramzan](https://www.linkedin.com/in/muh-azam)
 
 ---
 
